@@ -445,7 +445,7 @@ class _LoginScreenState extends State<LoginScreen> {
                           Expanded(
                             flex: sizeWidth < 1400 ? 1 : 2,
                             child: Center(
-                              child: Icon(Icons.notifications_active,
+                              child: Icon(Icons.menu_book,
                               color: Colors.black.withOpacity(0.1),
                               size: 200,),
                             ),

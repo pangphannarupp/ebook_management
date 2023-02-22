@@ -7,7 +7,7 @@ final languageThemeData = {
   LanguageTheme.KHMER: {
     'FontPrimary': 'KHMMOOL1',//
     'FontSecondary': 'Siemreap',//
-    'AppTitle': 'ប្រព័ន្ធគ្រប់គ្រងការផ្ញើដំណឹង',//
+    'AppTitle': 'ប្រព័ន្ធគ្រប់គ្រងសៀវភៅអេឡិចត្រូនិច',//
     'MenuDashBoard': 'មាតិកាសរុប',//
     'MenuCategory': 'ប្រភេទកម្មវិធី',//
     'MenuApplication': 'កម្មវិធី',//

@@ -1,4 +1,4 @@
-const STRING_APP_NAME = 'Notification Management';
+const STRING_APP_NAME = 'EBook Management';
 const STRING_APP_VERSION = '1.0.3';
 //=========== TYPE OF USERS ===========/
 //Manage all functions
